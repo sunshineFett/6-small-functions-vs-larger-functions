@@ -1,4 +1,4 @@
-const cart = ["10", "5", "15"];
+const cart = [10, 5, 15];
 
 const fakeAPICharge = total => true;
 const fakeSendRecipt = total => true;
